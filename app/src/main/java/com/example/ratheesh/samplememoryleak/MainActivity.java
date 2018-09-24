@@ -40,3 +40,7 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
     }
 }
+
+
+
+//reference from https://www.androiddesignpatterns.com/2013/04/activitys-threads-memory-leaks.html
